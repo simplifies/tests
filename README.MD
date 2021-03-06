@@ -6,8 +6,9 @@
 
 </p> 
 <p align="center">
-  <a href="https://github.com/swagkarna>
-  <img src="https://img.shields.io/github/followers/swagkarna?label=Follow&style=social">
-</a>
+   
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/swagkarna?label=Follow&style=social">
+
 </p>
                                                                                         
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/swagkarna?label=Follow&style=social">
