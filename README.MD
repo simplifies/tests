@@ -5,5 +5,9 @@
 <p align="center"><img src="https://img.shields.io/badge/Version-2.0-brightgreen"></p>
 
 </p> 
-<p align="center"><img src="https://img.shields.io/badge/Author-Yezz123-green.svg"> 
+<p align="center">
+  <a href="https://github.com/swagkarna>
+  <img src="https://img.shields.io/github/followers/swagkarna?label=Follow&style=social"></a>
+</a>
 </p>
+                                                                                        
